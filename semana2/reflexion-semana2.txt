@@ -1,0 +1,8 @@
+Es importante porque la terminal permite navegar,
+crear, mover y organizar archivos de forma rápida
+y eficiente dentro de un proyecto. 
+Además, muchas herramientas de desarrollo
+ como Git se usan desde la terminal, por lo que
+ayuda a trabajar mejor, automatizar tareas y 
+tener más control del proyecto.
+ lo facilita el trabajo del desarrollador 
