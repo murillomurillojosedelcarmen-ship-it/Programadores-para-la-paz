@@ -1,0 +1,4 @@
+PREGUNTA#7
+R//Repositorio: Lugar donde se guarda y organiza un proyecto con sus archivos y cambios.
+Commit: Registro de los cambios realizados en el proyecto.
+Push: Acción de enviar los cambios del repositorio local a GitHub u otro repositorio remoto.

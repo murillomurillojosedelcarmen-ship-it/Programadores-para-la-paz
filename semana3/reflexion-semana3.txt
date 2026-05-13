@@ -1,0 +1,2 @@
+PREGUNTA#9
+R//Es importante porque permite guardar y controlar los cambios del proyecto, evitar perder información, trabajar en equipo de forma organizada y volver a versiones anteriores si ocurre un error. Además, facilita ver quién hizo cada cambio y cuándo se realizó.
